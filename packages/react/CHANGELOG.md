@@ -1,5 +1,14 @@
 # wagmi
 
+## 0.6.7
+
+### Patch Changes
+
+- [`3425bb6`](https://github.com/wagmi-dev/wagmi/commit/3425bb6517ae940e68e714670f2fe282c7e07a35) Thanks [@0xFlicker](https://github.com/0xFlicker)! - Added Infura RPC URL for Sepolia
+
+- Updated dependencies [[`3425bb6`](https://github.com/wagmi-dev/wagmi/commit/3425bb6517ae940e68e714670f2fe282c7e07a35)]:
+  - @wagmi/core@0.5.7
+
 ## 0.6.6
 
 ### Patch Changes
